@@ -28,3 +28,6 @@ Sebab:
 
 - Kompilasi dapat berjalan dengan cepat
 - Memiliki *library* berupa *Standard Template Library* (STL) yang lengkap.
+
+References:
+- [Perkenalan pemrograman](https://tlx.toki.id/courses/basic/chapters/01/lessons/A)
