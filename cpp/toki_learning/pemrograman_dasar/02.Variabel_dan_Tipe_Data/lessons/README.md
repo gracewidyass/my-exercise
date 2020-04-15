@@ -41,20 +41,20 @@ dituliskan sesudah pola cetakan.
 #### Tipe Data: Bilangan Bulat
 | Nama   | Jangkauan | Ukuran |
 | :----: | :----:    | :----: |
-| short | -2 | 2 byte |
-| unsigned short | | 2 byte |
-| int | | 4 byte |
-| unsigned int | | 4 byte |
-| long long | | 8 byte |
-| unsigned long long | | 8 byte |
+| short | -2^15 ..2^15 -1 | 2 byte |
+| unsigned short | 0..2^16 -1 | 2 byte |
+| int | -2^31..2^31 -1 | 4 byte |
+| unsigned int | 0..2^32 -1| 4 byte |
+| long long | -2^63..2^63 -1 | 8 byte |
+| unsigned long long |0..2^64 -1 | 8 byte |
 
 Dalam memprogram, yang umum digunakan adalah int dan long long.
 
 #### Tipe Data Bilangan Riil
 | Nama   | Jangkauan | Akurasi | Ukuran |
 | :----: | :----:    | :----: | :----: |
-| float | -2 | 7-8 digit | 4 byte |
-| double | | 15-16 digit | 8 byte |
+| float | 1.5 x 10^-45 ..3.4 x 10^38 | 7-8 digit | 4 byte |
+| double | 5.0 x 10^-324 ..1.7 x 10^308 | 15-16 digit | 8 byte |
 
 • Biasa disebut dengan floating point.
 
