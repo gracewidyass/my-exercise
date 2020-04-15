@@ -57,9 +57,39 @@ Dalam memprogram, yang umum digunakan adalah int dan long long.
 | double | | 15-16 digit | 8 byte |
 
 • Biasa disebut dengan floating point.
+
 • Tipe data floating point bisa merepresentasikan negatif atau positif dari magnitudonya.
+
 • Pada pemrograman, umumnya tipe data floating point dihindari karena kurang akurat. Representasi 3 pada floating point bisa jadi 2.99999999999999 atau 3.000000000000001
 karena keterbatasan pada struktur penyimpanan bilangan pecahan pada komputer.
+
 • Tipe yang umum digunakan adalah **double**.
 
 #### Tipe Data Karakter
+• Merupakan tipe data untuk merepresentasikan karakter menurut ASCII (American Standart Code for Information Interchange).
+
+• Dalam ASCII, terdapat 128 karakter yang direpresentasikan dengan angka dari 0 sampai 127.
+
+• Misalnya, kode ASCII untuk karakter spasi (’ ’) adalah 32, huruf ’A’ adalah 65, ’B’ adalah 66, huruf ’a’ adalah 97, dan huruf ’b’ adalah 98.
+
+• Pada C++, tipe data ini dinyatakan sebagai char, dengan ukuran 1 byte.
+
+#### Tipe Data Boolean
+• Merupakan tipe data yang menyimpan nilai kebenaran, yaitu hanya TRUE atau FALSE.
+
+• Tipe data ini akan lebih terasa kebermanfaatannya ketika kita sudah mempelajari struktur percabangan dan array.
+
+#### Deklarasi Variabel
+• Deklarasi variabel adakah aktivitas mendaftarkan nama-nama dan tipe variabel yang akan digunakan.
+
+• Pada saat dideklarasi, setiap variabel perlu disertakan tipe datanya.
+
+• Pada C++, variabel dapat dideklarasikan di luar atau di dalam blok program.
+
+• Apabila variabel dideklarasikan di luar blok program, artinya variabel tersebut bersifat global.
+
+• Tipe data dituliskan sebelum nama variabel, dipisahkan oleh spasi.
+
+• Beberapa variabel juga bisa dideklarasikan secara bersamaan jika memiliki tipe data yang sama.
+
+#### Simbol Variabel pada printf
