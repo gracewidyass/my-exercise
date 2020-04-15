@@ -93,3 +93,15 @@ karena keterbatasan pada struktur penyimpanan bilangan pecahan pada komputer.
 • Beberapa variabel juga bisa dideklarasikan secara bersamaan jika memiliki tipe data yang sama.
 
 #### Simbol Variabel pada printf
+Berikut tabel beserta simbolnya.
+| Nama   | Simbol |
+| :----: | :----:    |
+| short | %d |
+| unsigned short | %u | 
+| int | %d |
+| unsigned int | %u | 
+| long long | %lld atau %I64d | 
+| unsigned long long | %llu atau %I64u |
+| float | %F |
+| double | %lf | 
+| char | %c |
