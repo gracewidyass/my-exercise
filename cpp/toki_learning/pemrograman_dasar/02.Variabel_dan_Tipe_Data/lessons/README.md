@@ -39,3 +39,5 @@ dituliskan sesudah pola cetakan.
 
 # Bagian 2
 #### Tipe Data: Bilangan Bulat
+| Nama | Jangkauan | Ukuran |
+| :----: | :----: | :----: |
