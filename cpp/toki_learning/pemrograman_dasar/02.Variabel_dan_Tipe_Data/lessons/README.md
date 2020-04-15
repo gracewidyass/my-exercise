@@ -105,6 +105,7 @@ Berikut tabel beserta simbolnya.
 | float | %F |
 | double | %lf | 
 | char | %c |
+
 • Untuk boolean, Anda dapat menggunakan %d yang akan mencetak 1 apabila TRUE atau 0 apabila FALSE.
 
 • Khusus untuk long long, simbolnya bergantung pada sistem operasi yang digunakan.
