@@ -46,14 +46,17 @@ I
 
 int a, b, c;
 int d, e;
+
 II
 
 int a, b, c;
 int A, B;
+
 III
 
 int a, b, c;
 double A, B;
+
 Di antara ketiga struktur tersebut, pendeklarasian variabel yang tepat adalah ....
 
 a. I
@@ -66,4 +69,4 @@ d. I dan III
 
 **e. I, II, dan III**
 
-Penyelesaian : 
+Penyelesaian : Ketiga struktur tersebut memiliki pendeklarasian variabel yang tepat.
