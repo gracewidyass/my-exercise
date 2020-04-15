@@ -47,3 +47,19 @@ dituliskan sesudah pola cetakan.
 | unsigned int | | 4 byte |
 | long long | | 8 byte |
 | unsigned long long | | 8 byte |
+
+Dalam memprogram, yang umum digunakan adalah int dan long long.
+
+#### Tipe Data Bilangan Riil
+| Nama   | Jangkauan | Akurasi | Ukuran |
+| :----: | :----:    | :----: | :----: |
+| float | -2 | 7-8 digit | 4 byte |
+| double | | 15-16 digit | 8 byte |
+
+• Biasa disebut dengan floating point.
+• Tipe data floating point bisa merepresentasikan negatif atau positif dari magnitudonya.
+• Pada pemrograman, umumnya tipe data floating point dihindari karena kurang akurat. Representasi 3 pada floating point bisa jadi 2.99999999999999 atau 3.000000000000001
+karena keterbatasan pada struktur penyimpanan bilangan pecahan pada komputer.
+• Tipe yang umum digunakan adalah **double**.
+
+#### Tipe Data Karakter
