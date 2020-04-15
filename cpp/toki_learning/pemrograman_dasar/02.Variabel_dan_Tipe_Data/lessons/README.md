@@ -39,5 +39,11 @@ dituliskan sesudah pola cetakan.
 
 # Bagian 2
 #### Tipe Data: Bilangan Bulat
-| Nama | Jangkauan | Ukuran |
-| :----: | :----: | :----: |
+| Nama   | Jangkauan | Ukuran |
+| :----: | :----:    | :----: |
+| short | -2 | 2 byte |
+| unsigned short | | 2 byte |
+| int | | 4 byte |
+| unsigned int | | 4 byte |
+| long long | | 8 byte |
+| unsigned long long | | 8 byte |
