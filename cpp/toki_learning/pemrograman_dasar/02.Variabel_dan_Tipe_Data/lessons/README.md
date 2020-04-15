@@ -105,3 +105,34 @@ Berikut tabel beserta simbolnya.
 | float | %F |
 | double | %lf | 
 | char | %c |
+• Untuk boolean, Anda dapat menggunakan %d yang akan mencetak 1 apabila TRUE atau 0 apabila FALSE.
+
+• Khusus untuk long long, simbolnya bergantung pada sistem operasi yang digunakan.
+
+#### Tipe Data Komposit Struct
+• Struct dapat dideklarasikan di luar blok program utama.
+struct <nama_struct> {
+  <tipe_1> <variabel_1>;
+  <tipe_2> <variabel_2>;
+  ...
+};
+
+• Setelah dideklarasikan, sebuah tipe data <nama struct> sudah bisa digunakan.
+  
+• Untuk mengakses nilai dari <variabel 1> dari suatu variabel bertipe struct, gunakan tanda titik (.).
+
+#### Konsumsi Memori Struct
+• Memori yang dibutuhkan bagi sebuah tipe data struct bisa dianggap sama dengan jumlah memori variabel-variabel yang menyusunnya.
+
+• Artinya, struct bernama titik pada contoh titik.pas mengkonsumsi memori yang sama dengan dua buah longint, yaitu 8 byte.
+
+• Perhitungan ini hanya perkiraan saja, sebab konsumsi memori yang sesungguhnya sulit dilakukan.
+
+#### Ordinalitas
+• Suatu tipe data memiliki sifat ordinal jika untuk suatu elemennya, kita bisa mengetahui secara pasti apa elemen sebelum atau selanjutnya.
+
+• Dengan demikian, seluruh tipe data bilangan bulat dan karakter adalah tipe data ordinal.
+
+• Kebalikannya, suatu tipe data dinyatakan memiliki sifat non-ordinal jika kita tidak bisa menentukan elemen sebelum dan sesudahnya.
+
+• Bilangan floating point termasuk dalam tipe data non-ordinal.
