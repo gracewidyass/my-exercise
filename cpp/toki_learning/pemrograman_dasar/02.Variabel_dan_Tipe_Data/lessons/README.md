@@ -29,3 +29,13 @@ dengan nilai yang ingin diisikan ke variabel tersebut.
 • Tipe data dari variabel dan nilai yang diacu harus sesuai.
 
 #### Sekilas Tentang printf
+• Untuk pencetakan, digunakan perintah berikut:
+printf("Nilai = %d\n", x);
+
+• Untuk mencetak nilai dari variabel, diperlukan simbol
+
+• Variabel-variabel untuk menggantikan simbol sementara perlu
+dituliskan sesudah pola cetakan.
+
+# Bagian 2
+#### Tipe Data: Bilangan Bulat
