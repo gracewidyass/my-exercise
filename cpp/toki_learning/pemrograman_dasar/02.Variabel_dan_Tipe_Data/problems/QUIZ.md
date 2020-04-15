@@ -24,4 +24,46 @@ c. longint
 
 e. unsigned int
 
+Penyelesaian : int menyimpan bilangan bulat antara -1.0.000 sampai dengan 100.000.
+
+3. Kapasitas dari string C++ adalah ....
+
+a. 128 karakter
+
+b. 256 karakter
+
+c. 127 karakter
+
+d. 255 karakter
+
+**e. sesuai dengan kapasitas memori mesin**
+
+Penyelesaian : string tidak memiliki kapasitas karakter tertentu melainkan berdasarkan kapasitas memori mesin.
+
+4. Perhatikan 3 struktur deklarasi variabel berikut:
+
+I
+
+int a, b, c;
+int d, e;
+II
+
+int a, b, c;
+int A, B;
+III
+
+int a, b, c;
+double A, B;
+Di antara ketiga struktur tersebut, pendeklarasian variabel yang tepat adalah ....
+
+a. I
+
+b. II
+
+c. III
+
+d. I dan III
+
+**e. I, II, dan III**
+
 Penyelesaian : 
