@@ -24,7 +24,7 @@ c. longint
 
 e. unsigned int
 
-Penyelesaian : int menyimpan bilangan bulat antara -1.0.000 sampai dengan 100.000.
+Penyelesaian : int menyimpan bilangan bulat antara -100.000 sampai dengan 100.000.
 
 3. Kapasitas dari string C++ adalah ....
 
