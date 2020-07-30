@@ -1,0 +1,6 @@
+# Create Grids within Grids
+Turning an element into a grid only affects the behavior of its direct descendants. So by turning a direct descendant into a grid, you have a grid within a grid.
+
+For example, by setting the `display` and `grid-template-columns` properties of the element with the item3 class, you create a grid within your grid.
+## Task 23
+Turn the element with the `item3` class into a grid with two columns with a width of `auto` and `1fr` using `display` and `grid-template-columns`.
